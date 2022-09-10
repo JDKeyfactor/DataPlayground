@@ -1,0 +1,14 @@
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\bin\Debug\netcoreapp3.1\DataPlayground.exe
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\bin\Debug\netcoreapp3.1\DataPlayground.deps.json
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\bin\Debug\netcoreapp3.1\DataPlayground.runtimeconfig.json
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\bin\Debug\netcoreapp3.1\DataPlayground.runtimeconfig.dev.json
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\bin\Debug\netcoreapp3.1\DataPlayground.dll
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\bin\Debug\netcoreapp3.1\DataPlayground.pdb
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\obj\Debug\netcoreapp3.1\DataPlayground.csproj.AssemblyReference.cache
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\obj\Debug\netcoreapp3.1\DataPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\obj\Debug\netcoreapp3.1\DataPlayground.AssemblyInfoInputs.cache
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\obj\Debug\netcoreapp3.1\DataPlayground.AssemblyInfo.cs
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\obj\Debug\netcoreapp3.1\DataPlayground.csproj.CoreCompileInputs.cache
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\obj\Debug\netcoreapp3.1\DataPlayground.dll
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\obj\Debug\netcoreapp3.1\DataPlayground.pdb
+C:\Users\jkilgall.KEYFACTOR\source\repos\DataPlayground\DataPlayground\obj\Debug\netcoreapp3.1\DataPlayground.genruntimeconfig.cache

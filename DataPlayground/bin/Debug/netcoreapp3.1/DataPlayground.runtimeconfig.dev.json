@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jkilgall.KEYFACTOR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jkilgall.KEYFACTOR\\.nuget\\packages"
+    ]
+  }
+}
